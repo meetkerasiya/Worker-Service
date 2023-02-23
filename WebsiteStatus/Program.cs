@@ -12,6 +12,7 @@ try
 {
     Log.Information("Starting up the service");
     host = Host.CreateDefaultBuilder(args)
+    .UseWindowsService() //to run as windows service
     .ConfigureServices(services =>
     {
         services.AddHostedService<Worker>();

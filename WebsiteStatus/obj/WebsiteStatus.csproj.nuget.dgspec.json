@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[6.1.0, )"

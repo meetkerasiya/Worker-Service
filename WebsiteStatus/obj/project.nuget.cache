@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YfOog3K0eFaijM5yhzVIB8ALYuZs4NlV37iYM1LzmQkJ0jAM/UCnPlcbqrAAPXkq4J+Q0ODly7oaRcDo8UD89A==",
+  "dgSpecHash": "cu6GPZ9sdEroQIuXgzhesOJqRHNeAqnxetyNPIUVFOG/skyN+coGw+cxDLzLI+rTV6CuK7Iq9LG3fxKld+SoFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Meet  Kerasiya\\source\\repos\\WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.1\\microsoft.extensions.hosting.7.0.1.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\7.0.0\\microsoft.extensions.hosting.windowsservices.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
@@ -41,6 +42,7 @@
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.1\\system.diagnostics.diagnosticsource.7.0.1.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
